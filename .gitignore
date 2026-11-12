@@ -1,0 +1,15 @@
+# Secrets
+db_config.py
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated at runtime
+receipts/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
